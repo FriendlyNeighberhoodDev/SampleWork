@@ -1,0 +1,5 @@
+C:\Users\ETOPPC1\Source\Repos\SiteDataServices\ObjectLibrary\bin\Debug\ObjectLibrary.dll
+C:\Users\ETOPPC1\Source\Repos\SiteDataServices\ObjectLibrary\bin\Debug\ObjectLibrary.pdb
+C:\Users\ETOPPC1\Source\Repos\SiteDataServices\ObjectLibrary\obj\Debug\ObjectLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ETOPPC1\Source\Repos\SiteDataServices\ObjectLibrary\obj\Debug\ObjectLibrary.dll
+C:\Users\ETOPPC1\Source\Repos\SiteDataServices\ObjectLibrary\obj\Debug\ObjectLibrary.pdb
