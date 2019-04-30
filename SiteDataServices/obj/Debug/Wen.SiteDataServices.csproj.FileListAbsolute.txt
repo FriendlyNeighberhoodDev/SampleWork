@@ -1,0 +1,14 @@
+C:\Users\ETOPPC1\Source\Repos\SiteDataServices\SiteDataServices\bin\Debug\SiteDataServices.dll
+C:\Users\ETOPPC1\Source\Repos\SiteDataServices\SiteDataServices\bin\Debug\SiteDataServices.pdb
+C:\Users\ETOPPC1\Source\Repos\SiteDataServices\SiteDataServices\bin\Debug\DataAccess.dll
+C:\Users\ETOPPC1\Source\Repos\SiteDataServices\SiteDataServices\bin\Debug\ObjectLibrary.dll
+C:\Users\ETOPPC1\Source\Repos\SiteDataServices\SiteDataServices\bin\Debug\EntityFramework.dll
+C:\Users\ETOPPC1\Source\Repos\SiteDataServices\SiteDataServices\bin\Debug\DataAccess.pdb
+C:\Users\ETOPPC1\Source\Repos\SiteDataServices\SiteDataServices\bin\Debug\DataAccess.dll.config
+C:\Users\ETOPPC1\Source\Repos\SiteDataServices\SiteDataServices\bin\Debug\ObjectLibrary.pdb
+C:\Users\ETOPPC1\Source\Repos\SiteDataServices\SiteDataServices\bin\Debug\EntityFramework.xml
+C:\Users\ETOPPC1\Source\Repos\SiteDataServices\SiteDataServices\obj\Debug\Wen.SiteDataServices.csprojAssemblyReference.cache
+C:\Users\ETOPPC1\Source\Repos\SiteDataServices\SiteDataServices\obj\Debug\Wen.SiteDataServices.csproj.CoreCompileInputs.cache
+C:\Users\ETOPPC1\Source\Repos\SiteDataServices\SiteDataServices\obj\Debug\Wen.SiteDataServices.csproj.CopyComplete
+C:\Users\ETOPPC1\Source\Repos\SiteDataServices\SiteDataServices\obj\Debug\SiteDataServices.dll
+C:\Users\ETOPPC1\Source\Repos\SiteDataServices\SiteDataServices\obj\Debug\SiteDataServices.pdb
